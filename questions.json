@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "category": "Python Programming",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "def", "fun", "define"],
+    "answer": 1,
+    "explanation": "A function in Python is created with the 'def' keyword, e.g. def add(a, b):"
+  },
+  {
+    "id": 2,
+    "category": "Python Programming",
+    "question": "What is the output of print(type([]))?",
+    "options": ["<class 'tuple'>", "<class 'dict'>", "<class 'list'>", "<class 'set'>"],
+    "answer": 2,
+    "explanation": "[] creates an empty list, so type([]) is <class 'list'>."
+  },
+  {
+    "id": 3,
+    "category": "Python Programming",
+    "question": "Which of these data types is immutable in Python?",
+    "options": ["list", "dict", "set", "tuple"],
+    "answer": 3,
+    "explanation": "A tuple cannot be changed after it is created, so it is immutable."
+  },
+  {
+    "id": 4,
+    "category": "Python Programming",
+    "question": "What does len('Streamlit') return?",
+    "options": ["8", "9", "10", "Error"],
+    "answer": 1,
+    "explanation": "'Streamlit' contains 9 characters, so len() returns 9."
+  },
+  {
+    "id": 5,
+    "category": "Python Programming",
+    "question": "Which module of the standard library is used to work with JSON data?",
+    "options": ["json", "jsonify", "pyjson", "simplejson"],
+    "answer": 0,
+    "explanation": "The built-in 'json' module encodes and decodes JSON data."
+  },
+  {
+    "id": 6,
+    "category": "Python Programming",
+    "question": "What is the result of 7 // 2 in Python 3?",
+    "options": ["3.5", "3", "4", "3.0"],
+    "answer": 1,
+    "explanation": "// is floor division, so 7 // 2 gives the integer 3."
+  },
+  {
+    "id": 7,
+    "category": "Computer Science",
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "options": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
+    "answer": 2,
+    "explanation": "Binary search halves the search space every step, giving O(log n)."
+  },
+  {
+    "id": 8,
+    "category": "Computer Science",
+    "question": "Which data structure follows the FIFO principle?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": 1,
+    "explanation": "A Queue is First In First Out (FIFO); a Stack is LIFO."
+  },
+  {
+    "id": 9,
+    "category": "Computer Science",
+    "question": "RAM is an example of which type of memory?",
+    "options": ["Secondary storage", "Volatile primary memory", "Optical storage", "Read only memory"],
+    "answer": 1,
+    "explanation": "RAM is volatile primary memory - its contents are lost when power is off."
+  },
+  {
+    "id": 10,
+    "category": "Computer Science",
+    "question": "Which protocol transfers web pages securely over the internet?",
+    "options": ["FTP", "SMTP", "HTTPS", "TELNET"],
+    "answer": 2,
+    "explanation": "HTTPS is HTTP secured with TLS/SSL encryption."
+  },
+  {
+    "id": 11,
+    "category": "Computer Science",
+    "question": "In machine learning, supervised learning is trained using what kind of data?",
+    "options": ["Unlabelled data", "Labelled data", "No data at all", "Only image data"],
+    "answer": 1,
+    "explanation": "Supervised learning uses labelled input-output pairs to learn a mapping."
+  },
+  {
+    "id": 12,
+    "category": "Computer Science",
+    "question": "Which of these is NOT an operating system?",
+    "options": ["Linux", "Windows", "Oracle", "macOS"],
+    "answer": 2,
+    "explanation": "Oracle is a database company/product, not an operating system."
+  },
+  {
+    "id": 13,
+    "category": "General Knowledge",
+    "question": "Who is known as the 'Missile Man of India'?",
+    "options": ["Dr. A.P.J. Abdul Kalam", "C.V. Raman", "Homi Bhabha", "Vikram Sarabhai"],
+    "answer": 0,
+    "explanation": "Dr. A.P.J. Abdul Kalam earned this title for his work on India's missile programme."
+  },
+  {
+    "id": 14,
+    "category": "General Knowledge",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Jupiter", "Mars", "Mercury"],
+    "answer": 2,
+    "explanation": "Mars looks red because of iron oxide (rust) on its surface."
+  },
+  {
+    "id": 15,
+    "category": "General Knowledge",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Perth", "Canberra"],
+    "answer": 3,
+    "explanation": "Canberra is the capital of Australia, not Sydney."
+  },
+  {
+    "id": 16,
+    "category": "General Knowledge",
+    "question": "The city of Pune is located in which Indian state?",
+    "options": ["Gujarat", "Maharashtra", "Karnataka", "Goa"],
+    "answer": 1,
+    "explanation": "Pune is a major educational city in the state of Maharashtra."
+  },
+  {
+    "id": 17,
+    "category": "General Knowledge",
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2,
+    "explanation": "There are 7 continents on Earth."
+  },
+  {
+    "id": 18,
+    "category": "General Knowledge",
+    "question": "Which gas do plants mainly absorb during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "answer": 2,
+    "explanation": "Plants absorb carbon dioxide and release oxygen during photosynthesis."
+  }
+]
